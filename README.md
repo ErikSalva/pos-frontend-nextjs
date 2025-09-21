@@ -10,7 +10,7 @@ Además, cuenta con un **panel de administración** donde se pueden **gestionar 
 
 ## 🌐 Sitio en línea
 
-🔗 [https://pos-frontend-next-w9mv.vercel.app/](https://pos-frontend-next-w9mv.vercel.app)
+🔗 [https://pos-frontend-next-w9mv.vercel.app/1](https://pos-frontend-next-w9mv.vercel.app/1)
 
 ---
 ## ✨ Funcionalidades principales
